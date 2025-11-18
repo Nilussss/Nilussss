@@ -1,20 +1,9 @@
-<!--
-README personale di Nilussss (versione aggiornata)
-Richieste:
-- Più immagini per rendere l'interfaccia più colorata
-- Icone Instagram e Gmail con sfondo nero o bianco evidente
-Suggerimento: se qualche immagine esterna non si carica, valuta di sostituirla con risorse locali o altre CDN affidabili.
--->
 
 <br/>
 
 <div align="center">
   <h1>👋 Ciao, sono <strong>Nilus</strong></h1>
   <h3 style="margin-top:-6px;">Studente all' <strong>I.T.I.S. MAGISTRI CUMACINI</strong> • Maker • Hardware + Software + Design</h3>
-
-  <!-- Avatar circolare (placeholder, sostituisci con tua immagine) -->
-  <img src="https://avatars.githubusercontent.com/u/1?v=4"
-       alt="Profile Placeholder" width="128" style="border-radius:50%; border:4px solid #111; box-shadow:0 0 14px #ff6f00; margin:14px 0;">
 
   <!-- Pulsanti social con sfondo -->
   <div>
@@ -46,14 +35,6 @@ Suggerimento: se qualche immagine esterna non si carica, valuta di sostituirla c
 
 ---
 
-## 🎨 Moodboard / Color Splash
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=420&q=60" width="30%" style="border-radius:10px;" alt="PCB">
-  <img src="https://images.unsplash.com/photo-1587486913048-04e5487cc11d?auto=format&fit=crop&w=420&q=60" width="30%" style="border-radius:10px;" alt="Coding">
-  <img src="https://images.unsplash.com/photo-1581091012184-5c1d7b68b335?auto=format&fit=crop&w=420&q=60" width="30%" style="border-radius:10px;" alt="Prototyping">
-</div>
-
----
 
 ## 🔎 Chi sono
 Creo progetti che uniscono codice, circuiti e oggetti fisici. Mi piace spingere sia il lato estetico (interfacce, design 3D) sia quello performante (ottimizzazione in C/C++ e gestione di microcontrollori).
