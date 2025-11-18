@@ -1,95 +1,169 @@
 <!--
-README personale di Nilussss
-- Stile "breakdown": sezioni chiare, icone e badge per una resa grafica pulita
-- Puoi modificare colori, dimensioni e ordini delle sezioni come preferisci
+README personale di Nilussss (versione aggiornata)
+Richieste:
+- Più immagini per rendere l'interfaccia più colorata
+- Icone Instagram e Gmail con sfondo nero o bianco evidente
+Suggerimento: se qualche immagine esterna non si carica, valuta di sostituirla con risorse locali o altre CDN affidabili.
 -->
 
+<!-- Banner principale -->
 <div align="center">
+  <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=60"
+       alt="Electronics Banner" width="100%" style="border-radius:14px;">
+</div>
 
-  <!-- Titolo e sottotitolo -->
+<br/>
+
+<div align="center">
   <h1>👋 Ciao, sono <strong>Nilus</strong></h1>
-  <p style="font-size: 1.15rem;">
-    Studente all'<strong>I.T.I.S. MAGISTRI CUMACINI</strong> • Maker • Appassionato di elettronica, codice e stampa 3D
-  </p>
+  <h3 style="margin-top:-6px;">Studente all' <strong>I.T.I.S. MAGISTRI CUMACINI</strong> • Maker • Hardware + Software + Design</h3>
 
-  <!-- Contatti principali -->
-  <p>
-    <a href="https://www.instagram.com/yvng.nilus" target="_blank" title="Instagram: @yvng.nilus">
-      <img alt="Instagram" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg">
+  <!-- Avatar circolare (placeholder, sostituisci con tua immagine) -->
+  <img src="https://avatars.githubusercontent.com/u/1?v=4"
+       alt="Profile Placeholder" width="128" style="border-radius:50%; border:4px solid #111; box-shadow:0 0 14px #ff6f00; margin:14px 0;">
+
+  <!-- Pulsanti social con sfondo -->
+  <div>
+    <a href="https://www.instagram.com/yvng.nilus" target="_blank" title="Instagram @yvng.nilus">
+      <img alt="Instagram"
+           src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Instagram_white.svg"
+           height="46"
+           style="background:#000; padding:8px; border-radius:14px; box-shadow:0 0 10px rgba(255,0,120,.6);">
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:00k.niluss@gmail.com" title="Scrivimi su Gmail: 00k.niluss@gmail.com">
-      <img alt="Gmail" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg">
+    <a href="mailto:00k.niluss@gmail.com" title="Scrivimi una mail">
+      <img alt="Gmail"
+           src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg"
+           height="46"
+           style="background:#000; padding:8px; border-radius:14px; box-shadow:0 0 10px rgba(255,140,0,.55);">
     </a>
-  </p>
+  </div>
 
-  <!-- Badge rapidi -->
+  <!-- Badge -->
   <p>
-    <img alt="Status" src="https://img.shields.io/badge/Role-Student-%230196F3?style=for-the-badge">
-    <img alt="Location" src="https://img.shields.io/badge/School-I.T.I.S.%20MAGISTRI%20CUMACINI-%23ea4c89?style=for-the-badge">
-    <img alt="Maker" src="https://img.shields.io/badge/Maker-%F0%9F%96%A8%EF%B8%8F-%23FFD43B?style=for-the-badge">
+    <img alt="Ruolo" src="https://img.shields.io/badge/Role-Student-0196F3?style=for-the-badge&logo=academia&logoColor=white">
+    <img alt="Scuola" src="https://img.shields.io/badge/I.T.I.S.-MAGISTRI%20CUMACINI-EA4C89?style=for-the-badge">
+    <img alt="Focus" src="https://img.shields.io/badge/Focus-Maker%20%7C%203D%20%7C%20Embedded-FF6F00?style=for-the-badge">
   </p>
 
+  <!-- Mini gradient bar -->
+  <img src="https://img.shields.io/badge/-Creative%20Pipeline-000?style=for-the-badge&logo=rainbow" alt="Pipeline">
+</div>
+
+---
+
+## 🎨 Moodboard / Color Splash
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=420&q=60" width="30%" style="border-radius:10px;" alt="PCB">
+  <img src="https://images.unsplash.com/photo-1587486913048-04e5487cc11d?auto=format&fit=crop&w=420&q=60" width="30%" style="border-radius:10px;" alt="Coding">
+  <img src="https://images.unsplash.com/photo-1581091012184-5c1d7b68b335?auto=format&fit=crop&w=420&q=60" width="30%" style="border-radius:10px;" alt="Prototyping">
 </div>
 
 ---
 
 ## 🔎 Chi sono
-Mi piace costruire cose: dal circuito al codice fino all’oggetto fisico. Smanetto con microcontrollori, prototipazione rapida e interfacce creative. Sto ampliando le mie competenze software per unire hardware, design e web.
+Creo progetti che uniscono codice, circuiti e oggetti fisici. Mi piace spingere sia il lato estetico (interfacce, design 3D) sia quello performante (ottimizzazione in C/C++ e gestione di microcontrollori).
+
+---
 
 ## 🧰 Tech Stack (uso abitualmente)
-<p>
-  <img alt="C" title="C" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  &nbsp;
-  <img alt="C++" title="C++" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  &nbsp;
-  <img alt="Arduino" title="Arduino" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  &nbsp;
-  <img alt="HTML5" title="HTML5" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  &nbsp;
-  <img alt="CSS3" title="CSS3" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  &nbsp;
-  <img alt="Assembly" title="Assembly" height="38" src="https://img.shields.io/badge/Assembly-x86%2FAVR-informational?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img alt="Stampa 3D" title="Stampa 3D" height="38" src="https://img.shields.io/badge/Stampa%203D-FDM%20%7C%20Resin-%23FF6F00?style=for-the-badge" />
-</p>
+<div>
+  <img alt="C" title="C" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="C++" title="C++" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="Arduino" title="Arduino" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img alt="HTML5" title="HTML5" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Assembly" title="Assembly" height="48"
+       src="https://img.shields.io/badge/Assembly-x86%20%7C%20AVR-593D88?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img alt="3D Printing" title="3D Printing" height="48"
+       src="https://img.shields.io/badge/Stampa%203D-FDM%20%26%20Resin-FF6F00?style=for-the-badge&logo=3dprinting&logoColor=white" />
+</div>
+
+---
 
 ## 📚 Sto imparando
-<p>
-  <img alt="Processing" title="Processing" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-plain.svg" />
-  &nbsp;
-  <img alt="Java" title="Java" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</p>
+<div>
+  <img alt="Processing" title="Processing" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-plain.svg" />
+  <img alt="Java" title="Java" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+
+---
 
 ## 🧩 Cosa mi piace fare
-- Prototipazione elettronica con Arduino e sensori
-- Interfacce interattive con HTML/CSS e, in futuro, Processing
-- Ottimizzazione a basso livello (C, C++, assembly)
-- Modellazione e stampa 3D per case, supporti e gadget
+- Prototipazione rapida con sensori e moduli su Arduino
+- Interfacce creative (HTML/CSS + in futuro Processing visual)
+- Ottimizzazione a basso livello e studio di Assembly
+- Modellazione & stampa 3D: case per microcontrollori, supporti, gadget
+- Piccoli strumenti utility in C++ per velocizzare flussi hardware/software
 
-## 🎯 Obiettivi a breve termine
-- Realizzare sketch in Processing per visual e controlli interattivi
-- Consolidare Java con piccoli progetti OOP
-- Integrare hardware (Arduino) con interfacce web
+---
+
+## 🖼️ Mini Galleria (3D / Hardware / Code Art)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1582560475093-ba66accbc424?auto=format&fit=crop&w=360&q=60" width="180" style="border-radius:12px;" alt="3D Print">
+      <br/><strong>Stampa 3D</strong>
+    </td>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1515536765-9b2a70c4b333?auto=format&fit=crop&w=360&q=60" width="180" style="border-radius:12px;" alt="Microcontroller">
+      <br/><strong>Microcontrollore</strong>
+    </td>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1603791452906-bb5f29d44b66?auto=format&fit=crop&w=360&q=60" width="180" style="border-radius:12px;" alt="Code Art">
+      <br/><strong>Code Art</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Obiettivi a breve termine
+- Pubblicare un progetto che unisca Arduino + interfaccia web
+- Realizzare visual dinamici in Processing controllati da sensori
+- Scrivere tool CLI in C++ per automatizzare piccole attività di laboratorio
+- Documentare i processi di stampa 3D (parametri, materiali, tuning)
+
+---
+
+## 🛠️ Idea Pipeline (Roadmap Creativa)
+```
+[Concept] → [Design CAD] → [Prototype HW] → [Firmware C/C++] → [Interfaccia] → [Refine] → [Release]
+```
+
+---
 
 ## 📬 Contatti
-- Instagram: <a href="https://www.instagram.com/yvng.nilus" target="_blank">@yvng.nilus</a>
-- Email: <a href="mailto:00k.niluss@gmail.com">00k.niluss@gmail.com</a>
-
-<!-- Pulsanti icona grandi -->
-<p>
-  <a href="https://www.instagram.com/yvng.nilus" target="_blank" title="Seguimi su Instagram">
-    <img alt="Instagram" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg">
+<div align="center">
+  <a href="https://www.instagram.com/yvng.nilus" target="_blank" title="Instagram @yvng.nilus">
+    <img alt="Instagram Icon"
+         src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Instagram.svg"
+         height="54"
+         style="background:#fff; padding:10px; border-radius:18px; border:2px solid #000;">
   </a>
   &nbsp;&nbsp;
   <a href="mailto:00k.niluss@gmail.com" title="Scrivimi una mail">
-    <img alt="Gmail" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg">
+    <img alt="Gmail Icon"
+         src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Gmail.svg"
+         height="54"
+         style="background:#fff; padding:10px; border-radius:18px; border:2px solid #000;">
   </a>
+</div>
+
+<p align="center">
+  Instagram: <a href="https://www.instagram.com/yvng.nilus" target="_blank">@yvng.nilus</a> •
+  Email: <a href="mailto:00k.niluss@gmail.com">00k.niluss@gmail.com</a>
 </p>
 
 ---
 
-### ℹ️ Note
-- Le icone provengono da Devicon e Simple Icons tramite jsDelivr.
-- Se qualche icona non si carica su GitHub, prova a ricaricare la pagina o sostituiscila con un badge di [Shields.io](https://shields.io/).
-- Puoi cambiare colori e testi dei badge modificando gli URL.
+### 🔁 Varianti Icone (se vuoi cambiare rapidamente)
+| Icona | Sfondo Nero | Sfondo Bianco |
+|-------|-------------|---------------|
+| Instagram | `<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Instagram_white.svg" style="background:#000; padding:8px; border-radius:12px;" height="40">` | `<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Instagram.svg" style="background:#fff; padding:8px; border-radius:12px;" height="40">` |
+| Gmail | `<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" style="background:#000; padding:8px; border-radius:12px;" height="40">` | `<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Gmail.svg" style="background:#fff; padding:8px; border-radius:12px;" height="40">` |
+
+---
+
+
+Grazie per la visita! Se vuoi collaborare, scrivimi: <a href="mailto:00k.niluss@gmail.com">00k.niluss@gmail.com</a> ⚡
