@@ -1,33 +1,50 @@
-# 👋 Ciao, sono Nilus
-
-Studente dell’**I.T.I.S. Magistri Cumacini** appassionato di elettronica, programmazione low-level e prototipazione fisica e digitale.
-
-## 🛠️ Competenze
-- **Linguaggi:** C, C++, Assembly  
-- **Embedded & Maker:** Arduino (sensori, attuatori, ottimizzazione firmware)  
-- **Web base:** HTML, CSS  
-- **Prototipazione fisica:** Modellazione 3D e stampa (supporti, case, componenti funzionali)  
-- **In apprendimento:** Java, Processing (creative coding, grafica interattiva)
-
-## 🎯 Obiettivi attuali
-- Collegare sketch Processing a dispositivi Arduino per visualizzazioni in tempo reale  
-- Migliorare strutturazione e documentazione dei repository  
-- Sviluppare piccoli tool didattici e dimostrativi in Java
-
-## 💡 Aree di interesse
-Embedded systems · Interfacce interattive · Installazioni creative · Ottimizzazione low-level · Design funzionale
-
-## 📂 Idee di prossimi progetti
-- Dashboard seriale per Arduino con visualizzazione grafica in Processing  
-- Libreria C++ per gestione modulare di sensori  
-- Supporti stampati in 3D per organizzare postazioni elettroniche  
-- Mini framework per effetti visuali controllati da input fisici
-
-## 📫 Contatti
-- Instagram: [@yvng.nilus](https://instagram.com/yvng.nilus)
-- Business email: 00k.niluss@gmail.com
-
-> Se vuoi collaborare su qualcosa legato a embedded, interazione o prototipazione creativa, scrivimi!
+<!-- HEADER -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Embedded-Low%20Level-1e1e1e?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-Prototyping-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D_Printing-Creative-f7931e?style=for-the-badge&logo=3d&logoColor=white" />
+  <h1 style="margin-top:20px;">👋 Nilus</h1>
+  <p><b>Student @ I.T.I.S. Magistri Cumacini</b> • Electronics | Firmware | Creative Tech</p>
+</div>
 
 ---
-“Costruire è il modo migliore per imparare.”
+
+### 🚀 Stack Tecnico
+| Core | In Apprendimento | Fisico/Prototipazione | Web |
+|------|------------------|-----------------------|-----|
+| C / C++ / Assembly | Java • Processing | Modellazione & Stampa 3D | HTML • CSS |
+
+### 🎯 Focus Attuale
+- Integrare sensori Arduino con visualizzazioni dinamiche in Processing
+- Piccole librerie modulari per gestione sensori (C/C++)
+- Workflow documentazione chiara + immagini / GIF
+
+### 🧪 Idee Progetti
+| Idea | Descrizione | Stato |
+|------|-------------|-------|
+| Serial Visual Monitor | Dashboard Processing per stream sensori | In concept |
+| Modular Sensor HAL | Layer astratto per sensori su Arduino | Pianificato |
+| 3D Lab Helpers | Supporti stampati per ordine banco elettronica | In progress |
+| Visual Reactive Wall | Installazione luci + input fisici | Da avviare |
+
+### 🔧 Toolchain Rapida
+`VSCode` • `Arduino IDE` • `PlatformIO` • `PrusaSlicer` • `Processing` • `Git`
+
+### 🌈 Estetica & Design
+Uso stampa 3D per creare involucri funzionali e puliti; mi interessa combinare firmware ottimizzato + interfacce visive semplici.
+
+### 📫 Contatti
+[Instagram @yvng.nilus](https://instagram.com/yvng.nilus) • Business: `00k.niluss@gmail.com`
+
+---
+
+<details>
+<summary>📊 Stats / Badge (opzionali)</summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilussss&layout=compact&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nilussss&theme=transparent)
+</details>
+
+---
+
+> “Costruire è il modo più veloce per capire.”
