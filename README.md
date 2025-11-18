@@ -1,55 +1,33 @@
-# Ciao, sono Nilussss 👋
+# 👋 Ciao, sono Nilus
 
-Benvenuto/a nel mio angolo su GitHub!  
-Mi piace imparare, costruire progetti utili e condividere quello che scopro.
+Studente dell’**I.T.I.S. Magistri Cumacini** appassionato di elettronica, programmazione low-level e prototipazione fisica e digitale.
 
-<!-- Da personalizzare: una breve frase su di te -->
-> Sviluppatore curioso | Appassionato di web, automazione e open source
+## 🛠️ Competenze
+- **Linguaggi:** C, C++, Assembly  
+- **Embedded & Maker:** Arduino (sensori, attuatori, ottimizzazione firmware)  
+- **Web base:** HTML, CSS  
+- **Prototipazione fisica:** Modellazione 3D e stampa (supporti, case, componenti funzionali)  
+- **In apprendimento:** Java, Processing (creative coding, grafica interattiva)
 
----
+## 🎯 Obiettivi attuali
+- Collegare sketch Processing a dispositivi Arduino per visualizzazioni in tempo reale  
+- Migliorare strutturazione e documentazione dei repository  
+- Sviluppare piccoli tool didattici e dimostrativi in Java
 
-## 🚀 Cosa sto facendo ora
-- 🌱 Sto imparando: <!-- C, C++, ASSEMBLY --> 
-- 🛠️ Lavoro/gioco con: <!-- Da personalizzare --> JavaScript, Python
-- 🤝 Aperto a collaborazioni su progetti interessanti
-- 📚 Obiettivo dell'anno: <!-- Da personalizzare --> pubblicare 2 progetti open source
+## 💡 Aree di interesse
+Embedded systems · Interfacce interattive · Installazioni creative · Ottimizzazione low-level · Design funzionale
 
+## 📂 Idee di prossimi progetti
+- Dashboard seriale per Arduino con visualizzazione grafica in Processing  
+- Libreria C++ per gestione modulare di sensori  
+- Supporti stampati in 3D per organizzare postazioni elettroniche  
+- Mini framework per effetti visuali controllati da input fisici
 
-## 🧰 Tech stack e strumenti
-<!-- Sostituisci o rimuovi i badge che non ti rappresentano -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+## 📫 Contatti
+- Instagram: [@yvng.nilus](https://instagram.com/yvng.nilus)
+- Business email: 00k.niluss@gmail.com
 
-<!-- Aggiungi: React, Vue, Angular, Postgres, MongoDB, etc. -->
-
----
-
-## 📌 Progetti in evidenza
-- [Da aggiungere: NomeProgetto1](#) — breve descrizione
-- [Da aggiungere: NomeProgetto2](#) — breve descrizione
-
-Suggerimento: metti i tuoi repo migliori “Pinned” nel profilo.
+> Se vuoi collaborare su qualcosa legato a embedded, interazione o prototipazione creativa, scrivimi!
 
 ---
-
-## 📊 Statistiche
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nilussss&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilussss&layout=compact&theme=transparent)
-![Streak](https://streak-stats.demolab.com?user=Nilussss&theme=transparent)
-
----
-
-## 📫 Come contattarmi
-- ✉️ Email: <!-- Da personalizzare --> nome@example.com
-- 🔗 LinkedIn: <!-- Da personalizzare --> [il-tuo-profilo](https://www.linkedin.com/)
-- 🌐 Sito/Portfolio: <!-- Da personalizzare --> https://tuo-sito.dev
-
----
-
-Grazie per la visita!  
-![Visitors](https://komarev.com/ghpvc/?username=Nilussss&color=0e75b6&style=flat)
+“Costruire è il modo migliore per imparare.”
