@@ -134,21 +134,21 @@ Creo progetti che uniscono codice, circuiti e oggetti fisici. Mi piace spingere 
 ---
 
 ## 📬 Contatti
-<div align="center">
-  <a href="https://www.instagram.com/yvng.nilus" target="_blank" title="Instagram @yvng.nilus">
-    <img alt="Instagram Icon"
-         src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Instagram.svg"
-         height="54"
-         style="background:#fff; padding:10px; border-radius:18px; border:2px solid #000;">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:00k.niluss@gmail.com" title="Scrivimi una mail">
-    <img alt="Gmail Icon"
-         src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Gmail.svg"
-         height="54"
-         style="background:#fff; padding:10px; border-radius:18px; border:2px solid #000;">
-  </a>
-</div>
+<div>
+    <a href="https://www.instagram.com/yvng.nilus" target="_blank" title="Instagram @yvng.nilus">
+      <img alt="Instagram"
+           src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Instagram_white.svg"
+           height="46"
+           style="background:#000; padding:8px; border-radius:14px; box-shadow:0 0 10px rgba(255,0,120,.6);">
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:00k.niluss@gmail.com" title="Scrivimi una mail">
+      <img alt="Gmail"
+           src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg"
+           height="46"
+           style="background:#000; padding:8px; border-radius:14px; box-shadow:0 0 10px rgba(255,140,0,.55);">
+    </a>
+  <div>
 
 <p align="center">
   Instagram: <a href="https://www.instagram.com/yvng.nilus" target="_blank">@yvng.nilus</a> •
@@ -156,14 +156,5 @@ Creo progetti che uniscono codice, circuiti e oggetti fisici. Mi piace spingere 
 </p>
 
 ---
-
-### 🔁 Varianti Icone (se vuoi cambiare rapidamente)
-| Icona | Sfondo Nero | Sfondo Bianco |
-|-------|-------------|---------------|
-| Instagram | `<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Instagram_white.svg" style="background:#000; padding:8px; border-radius:12px;" height="40">` | `<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Instagram.svg" style="background:#fff; padding:8px; border-radius:12px;" height="40">` |
-| Gmail | `<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" style="background:#000; padding:8px; border-radius:12px;" height="40">` | `<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Gmail.svg" style="background:#fff; padding:8px; border-radius:12px;" height="40">` |
-
----
-
 
 Grazie per la visita! Se vuoi collaborare, scrivimi: <a href="mailto:00k.niluss@gmail.com">00k.niluss@gmail.com</a> ⚡
