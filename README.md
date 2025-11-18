@@ -6,12 +6,6 @@ Richieste:
 Suggerimento: se qualche immagine esterna non si carica, valuta di sostituirla con risorse locali o altre CDN affidabili.
 -->
 
-<!-- Banner principale -->
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=60"
-       alt="Electronics Banner" width="100%" style="border-radius:14px;">
-</div>
-
 <br/>
 
 <div align="center">
@@ -98,26 +92,6 @@ Creo progetti che uniscono codice, circuiti e oggetti fisici. Mi piace spingere 
 
 ---
 
-## 🖼️ Mini Galleria (3D / Hardware / Code Art)
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1582560475093-ba66accbc424?auto=format&fit=crop&w=360&q=60" width="180" style="border-radius:12px;" alt="3D Print">
-      <br/><strong>Stampa 3D</strong>
-    </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1515536765-9b2a70c4b333?auto=format&fit=crop&w=360&q=60" width="180" style="border-radius:12px;" alt="Microcontroller">
-      <br/><strong>Microcontrollore</strong>
-    </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1603791452906-bb5f29d44b66?auto=format&fit=crop&w=360&q=60" width="180" style="border-radius:12px;" alt="Code Art">
-      <br/><strong>Code Art</strong>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🚀 Obiettivi a breve termine
 - Pubblicare un progetto che unisca Arduino + interfaccia web
 - Realizzare visual dinamici in Processing controllati da sensori
@@ -150,11 +124,5 @@ Creo progetti che uniscono codice, circuiti e oggetti fisici. Mi piace spingere 
     </a>
   <div>
 
-<p align="center">
-  Instagram: <a href="https://www.instagram.com/yvng.nilus" target="_blank">@yvng.nilus</a> •
-  Email: <a href="mailto:00k.niluss@gmail.com">00k.niluss@gmail.com</a>
-</p>
 
----
 
-Grazie per la visita! Se vuoi collaborare, scrivimi: <a href="mailto:00k.niluss@gmail.com">00k.niluss@gmail.com</a> ⚡
